@@ -3,5 +3,5 @@ name = "lesson2"
 version = "0.1.0"
 description = "我要寫什麼隨我高興"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = []
